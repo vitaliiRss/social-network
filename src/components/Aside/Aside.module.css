@@ -2,3 +2,12 @@
   grid-area: aside;
   background-color: burlywood;
 }
+
+a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.active {
+  color: gold;
+}
