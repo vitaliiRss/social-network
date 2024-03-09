@@ -6,7 +6,7 @@ export const Aside = () => {
   return (
     <aside className={classes.aside}>
       <nav className={classes.nav}>
-        <ul>
+        <ul className={classes.navList}>
           <li>
             <NavLink to="/profile" activeClassName={classes.active}>Profile</NavLink>
           </li>

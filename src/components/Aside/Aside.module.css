@@ -3,11 +3,16 @@
   background-color: burlywood;
 }
 
-a {
+.navList {
+  list-style: none;
+  padding: 0 0 0 10px;
+}
+
+.aside a {
   color: #fff;
   text-decoration: none;
 }
 
-.active {
+.aside .active {
   color: gold;
 }
